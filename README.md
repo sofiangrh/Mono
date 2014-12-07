@@ -1,3 +1,3 @@
 # Mono
 
-A Simple Mono GTK 2.x Theme
+A Simple Monochrome GTK 2.x Theme
